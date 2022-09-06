@@ -1,4 +1,6 @@
-# __:wave: Привет всем! Меня зовут Евгений__ 
+# __:wave: Привет всем!__ 
+
+### **Меня зовут Евгений**
 
 
 
@@ -24,6 +26,6 @@ ___
 <br>          
           
 ___
-### __Моя активность:__
+### __Моя статистика:__
 <img height="200px" width="500px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
 <img height="200px" width="500px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
