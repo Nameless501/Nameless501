@@ -25,6 +25,6 @@
 
 ## <p align="center">Моя статистика:</p>
 <div align="center">
-<img height="195px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
+<img width="395px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
+<img width="400px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
 </div>
