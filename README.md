@@ -1,12 +1,12 @@
 # **<p align="center">Привет всем! :wave: </p>**
 
-Меня зовут **Евгений** и я начинающий frontend-разработчик
+**<p align="center">Меня зовут Евгений и я начинающий frontend-разработчик</p>**
 
-Учусь создавать крутые вэб-приложения, которыми бы людям хотелось пользоваться :computer:  
-
-
-<br>         
-<br>         
+- Учусь создавать крутые вэб-приложения, которыми бы людям хотелось пользоваться 
+- Стараюсь постоянно улучшать качество своего кода
+- Хочу работать в команде, чтобы развиваться профессионально
+        
+<br>
 
 ## <p align="center">Работаю с:</p>
 <div align="center">
@@ -19,9 +19,8 @@
 <img height="45px" width="45px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img height="45px" width="45px" alt="VS code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
-         
+
 <br>
-<br>          
 
 ## <p align="center">Моя статистика:</p>
 <div align="center">
