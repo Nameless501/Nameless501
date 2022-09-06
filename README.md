@@ -25,5 +25,5 @@ ___
           
 ___
 ### Моя активность:
-<img align="left" height="200px" width="450px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
-<img align="right" height="200px" width="450px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
+<img height="200px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
+<img height="200px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
