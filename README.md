@@ -26,7 +26,7 @@
 
 ## <p align="center">Моя статистика:</p>
 <div width='100%' align="center">
-<img width="395px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
-<img width="400px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy">
-<img alt="codewars" src="https://www.codewars.com/users/Nameless501/badges/large">
+  <img height="220px" alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=buefy">
+  <img height="220px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=buefy&hide_rank=true">
+  <img alt="codewars" src="https://www.codewars.com/users/Nameless501/badges/large">
 </div>  
