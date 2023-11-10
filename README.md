@@ -1,7 +1,7 @@
 <div width='100%' align="center">
-    <img width='100%' alt="Langs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20👋&fontSize=55&fontAlignY=25&fontAlign=50&desc=%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B7%D0%BE%D0%B2%D1%83%D1%82%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D1%8F%20frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&descSize=35&descAlign=50">
+    <img width='100%' alt="Langs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hello%21%20👋&fontSize=55&fontAlignY=25&fontAlign=50&desc=My%20name%20is%20Eugene%2C%20and%20i%27m%20frontend%20developer&descSize=35&descAlign=50">
 </div>
-<h2 align="center">Связаться со мной</h2>
+<h2 align="center">Contact me:</h2>
 <div align="center">
     <a href='https://t.me/nameless_501' target='_blank'>
         <img height='45px' alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -14,7 +14,7 @@
     </a>
 </div>
 </br>
-<h2 align="center">Работаю с:</h2>
+<h2 align="center">My stack:</h2>
 <div align="center" display='flex'>
     <img height="50px" alt="TypeScipt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,7 +35,7 @@
     <img height="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
 </br>
-<h2 align="center">Моя статистика</h2>
+<h2 align="center">My stats:</h2>
 <div width='100%' align="center">
   <img height="200px" alt="Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=swift">
   <img height="200px" alt="Git stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=swift&hide_rank=true">
