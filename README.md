@@ -44,5 +44,5 @@
   <img height="175px" alt="Leetcode stats" src="https://leetcard.jacoblin.cool/Nameless501?theme=light">
 </div>
 <div width='100%' align="center">
-    <img width='100%' alt="Langs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer">
+    <img width='100%' alt="Langs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </div>
