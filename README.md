@@ -9,9 +9,6 @@
     <a href='mailto:ezorin5@yandex.ru'>
         <img height='45px' alt="eMail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href='http://www.linkedin.com/in/EugeneZorin' target='_blank'>
-        <img height='45px' alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
 </div>
 </br>
 <h2 align="center">My stack:</h2>
