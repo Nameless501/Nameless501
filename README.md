@@ -37,9 +37,3 @@
   <img height="200px" alt="Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=swift">
   <img height="200px" alt="Git stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=swift&hide_rank=true">
 </div>
-<div width='100%' align="center">
-  <img height="175px" alt="Leetcode stats" src="https://leetcard.jacoblin.cool/Nameless501?theme=light">
-</div>
-<div width='100%' align="center">
-    <img width='100%' alt="Langs" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-</div>
