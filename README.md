@@ -35,5 +35,4 @@
 <h2 align="center">My stats:</h2>
 <div width='100%' align="center">
   <img height="200px" alt="Most used langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless501&layout=compact&theme=swift">
-  <img height="200px" alt="Git stats" src="https://github-readme-stats.vercel.app/api?username=Nameless501&show_icons=true&theme=swift&hide_rank=true">
 </div>
